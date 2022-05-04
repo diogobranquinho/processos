@@ -12,6 +12,12 @@ gcc -o process process.c
 #para executar
 ./process
 ````
+Caso aconteça algum erro na compilação em relação as bibliotecas <sys/types.h> ou <stdio.h> você deve instalar o conjunto de bibliotecas essenciais do Linux com os seguintes comandos
+
+````sh
+sudo apt-get update
+sudo apt-get install build-essential
+````
 
 ## Python
 Instalar o Python na versão 3
