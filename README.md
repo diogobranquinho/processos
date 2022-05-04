@@ -15,6 +15,7 @@ gcc -o process process.c
 
 ## Python
 Instalar o Python na versão 3
+
 ````sh
 python3 process.py
 ````
