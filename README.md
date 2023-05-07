@@ -27,5 +27,5 @@ python3 process.py
 ````
 
 ## Windows C
-Utilizar o Code::Blocks ou Dev-C++ como IDEs para manipulação e compilação do código-fonte
+Utilizar o Embarcadero Dev-C++ nova versão do Dev-C++. O Code::Blocks e Dev-C++ estão descontinuados e sem suporte.
 
